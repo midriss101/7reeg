@@ -1,0 +1,4 @@
+#Tue Feb 12 09:35:34 EST 2019
+base.0=/Users/moe/Documents/emarket/7reeg/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

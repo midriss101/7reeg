@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7674f7fc64f0b183c08ce1a9d7a440c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3b40dcada3534e85dbc86cab46579705/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01343c7190e9ede98ce90d5038031ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5949665edb438e695b03262a6b9c58c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d9e5e1e8ed133f8fe6e78f331e3c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a88b77c1d75d86b2ab657a7e85456e45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/687825c0860b796bf7cb4835581c8168/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a0e72693bda3701856c4d2667c1b3fce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9f01f608b9501d2779716d455c243036/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/89a4289d4ff9b5180621a82f23843cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/646d801e42bac8dea3e75d4732792e65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1f9ed6f3a8c004fb3194a35c23f9cf6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7dc63931b347092940aa71bb0b1ed32e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/45dd83815007c3a8ce992c6d9412f452/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b8a1fc4f94b9e102eebc27429efecca8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cd524d33a864b161ec61c8ef439eeddc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/48b27d2a1b77826ce027cc0a7abfd77b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5c1fe3283c0bdaaab54f66459b7c107c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/42d74813fd3b08dcef399eebc73f8c0b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e906fdc24651cd8ef12b4fc64bb3580a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2aa7ef67301163c4fa05366caa6ded9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/287157517a37cc365eca01aa9ed08e04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1fd1797db4884f0c29aa8030815a3f3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9e63ecef1ef0c40ac41d92438eb96d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8651f0616f397903810844199bfdb847/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b4e290d9cb12f318f0bcff7717728fea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/95fb9fdcfb206b080e1d6e72560e0fb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4a4186fa656c09af501e24c28b220c7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/46ef2fadbf3186ff471ddff86dacf77f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3b40dcada3534e85dbc86cab46579705/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3b40dcada3534e85dbc86cab46579705/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5c1fe3283c0bdaaab54f66459b7c107c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5c1fe3283c0bdaaab54f66459b7c107c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/42d74813fd3b08dcef399eebc73f8c0b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/42d74813fd3b08dcef399eebc73f8c0b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5c1fe3283c0bdaaab54f66459b7c107c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.moeworx.a7reeg.MainActivity
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.moeworx.a7reeg.GameActivity
+ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7674f7fc64f0b183c08ce1a9d7a440c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7674f7fc64f0b183c08ce1a9d7a440c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3b40dcada3534e85dbc86cab46579705/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3b40dcada3534e85dbc86cab46579705/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01343c7190e9ede98ce90d5038031ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/01343c7190e9ede98ce90d5038031ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5949665edb438e695b03262a6b9c58c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5949665edb438e695b03262a6b9c58c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d9e5e1e8ed133f8fe6e78f331e3c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/99d9e5e1e8ed133f8fe6e78f331e3c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a88b77c1d75d86b2ab657a7e85456e45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a88b77c1d75d86b2ab657a7e85456e45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/687825c0860b796bf7cb4835581c8168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/687825c0860b796bf7cb4835581c8168/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a0e72693bda3701856c4d2667c1b3fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a0e72693bda3701856c4d2667c1b3fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9f01f608b9501d2779716d455c243036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9f01f608b9501d2779716d455c243036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/89a4289d4ff9b5180621a82f23843cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/89a4289d4ff9b5180621a82f23843cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/646d801e42bac8dea3e75d4732792e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/646d801e42bac8dea3e75d4732792e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1f9ed6f3a8c004fb3194a35c23f9cf6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1f9ed6f3a8c004fb3194a35c23f9cf6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7dc63931b347092940aa71bb0b1ed32e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7dc63931b347092940aa71bb0b1ed32e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/45dd83815007c3a8ce992c6d9412f452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/45dd83815007c3a8ce992c6d9412f452/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b8a1fc4f94b9e102eebc27429efecca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b8a1fc4f94b9e102eebc27429efecca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cd524d33a864b161ec61c8ef439eeddc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cd524d33a864b161ec61c8ef439eeddc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/48b27d2a1b77826ce027cc0a7abfd77b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/48b27d2a1b77826ce027cc0a7abfd77b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5c1fe3283c0bdaaab54f66459b7c107c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5c1fe3283c0bdaaab54f66459b7c107c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/42d74813fd3b08dcef399eebc73f8c0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/42d74813fd3b08dcef399eebc73f8c0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e906fdc24651cd8ef12b4fc64bb3580a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e906fdc24651cd8ef12b4fc64bb3580a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2aa7ef67301163c4fa05366caa6ded9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2aa7ef67301163c4fa05366caa6ded9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/287157517a37cc365eca01aa9ed08e04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/287157517a37cc365eca01aa9ed08e04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1fd1797db4884f0c29aa8030815a3f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1fd1797db4884f0c29aa8030815a3f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9e63ecef1ef0c40ac41d92438eb96d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9e63ecef1ef0c40ac41d92438eb96d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8651f0616f397903810844199bfdb847/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8651f0616f397903810844199bfdb847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b4e290d9cb12f318f0bcff7717728fea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b4e290d9cb12f318f0bcff7717728fea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/95fb9fdcfb206b080e1d6e72560e0fb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/95fb9fdcfb206b080e1d6e72560e0fb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4a4186fa656c09af501e24c28b220c7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4a4186fa656c09af501e24c28b220c7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/46ef2fadbf3186ff471ddff86dacf77f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lamiss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/46ef2fadbf3186ff471ddff86dacf77f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lamiss/Documents/7reeg/app/src/main/AndroidManifest.xml
