@@ -55,7 +55,7 @@ When a player has formed melds whose totals honor 2 conditions, the player may l
   <li>
   Draw from bank by (B) clicking bank button and dragging card displayed to bottom right of hand (C) to appropriate position within hand (D). <br>
   <img src="doc/Sc1.png"/>
-  <img src="doc/Sc2.png/>
+  <img src="doc/Sc2.png"/>
   </li>
 
   <li>
