@@ -739,8 +739,10 @@ System.out.println("++++++++++++++++++++++ @GameActivity.playerThrewReject() ---
     }
 
 
-
-    //todo 50
+    /**
+     * Todo 50
+     * @param roundWinner
+     */
     @Override
     public void endRound(RoundPlayer roundWinner){
         //decrement winner score
