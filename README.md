@@ -1,6 +1,6 @@
 # 7reeg
 
-<h1>Game description</h1>
+<h2>Game description</h2>
 <ol>
 
 <li>14 is a variant of the Mexican cards game Conquian. </li>
@@ -44,7 +44,7 @@ When a player has formed melds whose totals honor 2 conditions, the player may l
 
 </ol>
 
-<h1>How to play a round</h1>
+<h2>How to play a round</h2>
 <ol>
 
   <li>
@@ -70,3 +70,7 @@ When a player has formed melds whose totals honor 2 conditions, the player may l
   </li>
 
 </ol>
+
+
+<h2>Technical documentation</h2>
+<a href="apidoc/index.html">API documentation</a>
