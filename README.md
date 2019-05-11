@@ -72,5 +72,27 @@ When a player has formed melds whose totals honor 2 conditions, the player may l
 </ol>
 
 
-<h2>Technical documentation</h2>
-<a href="apidoc/index.html">API documentation</a>
+<p>
+A Game is made up of several Rounds.
+</p>
+
+<h2>Use Cases</h2>
+
+<h3>Game Use Cases</h3>
+<p>TBD</p>
+
+<h3>Round Use Cases</h3>
+<p>
+<img src='doc/round_use_cases.png'><br>
+</p>
+
+<h2>Use Case Realizations</h2>
+
+<h3>Game Use Case Realizations</h3>
+<p>TBD</p>
+
+<h3>Round Use Case Realizations</h3>
+<p>
+<img src='doc/round_sequence_diagram.pdf'><br>
+<a href="apidoc/index.html">API documentation</a><br>
+</p>
