@@ -72,11 +72,12 @@ When a player has formed melds whose totals honor 2 conditions, the player may l
 </ol>
 
 
+
+<h2>Use Cases</h2>
+
 <p>
 A Game is made up of several Rounds.
 </p>
-
-<h2>Use Cases</h2>
 
 <h3>Game Use Cases</h3>
 <p>TBD</p>
