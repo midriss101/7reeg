@@ -93,6 +93,6 @@ A Game is made up of several Rounds.
 
 <h3>Round Use Case Realizations</h3>
 <p>
-<img src='doc/round_sequence_diagram.pdf'><br>
+<img src='doc/round_sequence_diagram.png'><br>
 <a href="apidoc/index.html">API documentation</a><br>
 </p>
